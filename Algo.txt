@@ -1,4 +1,5 @@
 Step 1: Order the Pizza
 1a: Contemplate your decisions
 1b: Consider cancelling the delivery
+1c: Reconsider cancelling the delivery
 Step 2: Wait for the delivery
